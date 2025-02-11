@@ -11,7 +11,7 @@
 - [ ] Goal 2
 - [ ] Goal 3
 -->
-  [x] Finish Atari Case Study
+- [x] Finish Atari Case Study
 
 #### Progress
 - **What I accomplished**:
