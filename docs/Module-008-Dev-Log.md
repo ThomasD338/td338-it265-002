@@ -12,11 +12,11 @@
 - [ ] Goal 3
 -->
 
-  [x] Create Godot project
-  [ ] Grid movement
-  [ ] Card deck logic (shuffling, draw starting hand, etc.)
-  [ ] Card functionality
-  [ ] Enemy logic (Spawning, attacking, getting hit)
+ - [x] Create Godot project
+ - [ ] Grid movement
+ - [ ] Card deck logic (shuffling, draw starting hand, etc.)
+ - [ ] Card functionality
+ - [ ] Enemy logic (Spawning, attacking, getting hit)
   
 
 #### Progress
