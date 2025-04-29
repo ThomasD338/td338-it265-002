@@ -33,7 +33,6 @@
 - Key insights, techniques, or concepts explored.
 - From the slides in-class, I learned that parallax can often serve as more than just a visual effect to make games look nice. It can also influence gameplay by hinting the player on what they should focus on.
 - I learned a lot more about the backstory behind the game I chose for my case study, which was Outer Wilds.
-- 
 
 #### Free Thinking
 - Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
