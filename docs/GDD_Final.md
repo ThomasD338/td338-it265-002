@@ -25,14 +25,12 @@ This change was added for several reasons. It added another layer of interaction
 - Added/tweaked many items to remove cards from your deck
 Deck fixing is an important mechanic in all roguelike deckbuilders, and this game originally lacked it entirely. By implementing ways to thin your deck, it further supported the dynamic of smaller decks being able to draw more favorable cards faster, while larger decks were more resistant to injury cards.
 
+# Below is my original treatment
+
 ## Concepts from other games I like:
 - Decked Out, "stumble" cards: This was a game made in Minecraft on the Hermitcraft SMP server, basically it was a dungeon delver and players would have a deck of their own selected cards to aid them as they search for artifacts in the dungeon. After a certain interval of time, a random card would be drawn and its effect would be played. Additionally, stumble cards would slowly fill the player's deck as time went on. When these cards were drawn, they had a detrimental effect to the player. Stumble cards would also be added to the player's deck by other cards' effects, usually balanced by a very potent positive effect as a tradeoff.
 - Dominion, Victory Point cards: The goal of Dominion is to have the most victory points at the end of the game. However, the cards that gave you victory points have no effect and cannot be played, essentially being a dead draw for the player. 
 Summary: Dead/bad draws that are more detrimental to the player are cool
-
-
-# Below is my original treatment
-
 
 ## OLD Concept
 ~~Cooperative board game, 3 players. Gameboard is an 8x4 square board. Enemies randomly spawn in at the top of the board and move downward, randomly selecting between one of three possible move options (ex.: moving left one column then down, just moving straight down, or moving right one column then down). Cast AoE spells to damage each enemy before the reach the end of the gameboard. 3 players cooperate to try and stop the monster force.~~
