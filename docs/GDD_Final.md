@@ -49,7 +49,9 @@ Issues found during quick playtesting:
 # Deck Mechanic:
 Several different card types:
 - Attack: Lets player attack with their primary weapon
-- Spell: Lets player cast a spell
+~~- Spell: Lets player cast a spell~~
+- Injury cards: Dead draws
+- Item cards: Allow the player to perform actions listed on the item for that turn. Allows for various different actions depending on what is needed
 
 # Spell Cooldowns
 - After casting, flip card over to indicate that it is on cooldown. Flip it back over at the end of your next turn.
